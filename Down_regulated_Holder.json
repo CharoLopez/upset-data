@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/CharoLopez/upset-data/master/Down_regulated_Holder.csv",
+	"name": "Down-regulated genes -Holder Core-",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Ensembl" },
+		{ "type": "string", "index": 1, "name": "Genename" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 6 }
+	]
+}
