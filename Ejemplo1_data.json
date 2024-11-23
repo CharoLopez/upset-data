@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/CharoLopez/upset-data/refs/heads/master/Ejemplo1_data.csv",
+	"name": "Complejo integrador",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Ensembl" },
+		{ "type": "string", "index": 1, "name": "Genename" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 13 }
+	]
+}
