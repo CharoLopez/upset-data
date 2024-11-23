@@ -6,11 +6,11 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Gene_name" },
-		{ "type": "string", "index": 14, "name": "Accession" }
-		{ "type": "string", "index": 15, "name": "Wormbase Gene ID" }
-		{ "type": "string", "index": 15, "name": "Sequence_name" }
-		{ "type": "string", "index": 16, "name": "Description" }
-		{ "type": "string", "index": 17, "name": "Cellular_compartment" }
+		{ "type": "string", "index": 14, "name": "Accession" },
+		{ "type": "string", "index": 15, "name": "Wormbase Gene ID" },
+		{ "type": "string", "index": 15, "name": "Sequence_name" },
+		{ "type": "string", "index": 16, "name": "Description" },
+		{ "type": "string", "index": 17, "name": "Cellular_compartment" },
 		{ "type": "string", "index": 18, "name": "Human_ortholog" }
 	],
 	"sets": [
